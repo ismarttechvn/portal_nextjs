@@ -1,0 +1,6 @@
+@import "./App.css";
+@import "./pages/login.css";
+
+.cursor-pointer {
+  cursor: pointer;
+}
