@@ -36,3 +36,15 @@ code {
   -webkit-line-clamp: 2;
   display: -webkit-box;
 }
+
+.image.image_resized {
+  display: block;
+  box-sizing: border-box;
+}
+.image.image_resized img {
+  width: 100%;
+}
+
+.image.image_resized > figcaption {
+  display: block;
+}

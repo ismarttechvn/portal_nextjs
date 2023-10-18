@@ -20,7 +20,7 @@ export function Header({ activeTab }: { activeTab: number }) {
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <div className="container-fluid">
         <a className="navbar-brand">
-          <img src="img/logo.png" width="50px" alt="logo" />
+          <img src="/img/logo.png" width="50px" alt="logo" />
         </a>
 
         <button
