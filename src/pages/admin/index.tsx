@@ -4,7 +4,7 @@ import { ControlView } from "@/views";
 export default function AdminPage() {
   return (
     <Layout description="">
-      <Header activeTab={1} />
+      <Header activeTab={7} />
       <ControlView />
     </Layout>
   );
